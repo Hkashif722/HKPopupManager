@@ -1,8 +1,12 @@
 # HKPopupManager
 
-[![Swift](https://img.shields.io/badge/Swift-5.6-orange.svg)](https://swift.org) ![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20macOS-blue) ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-green.svg)
+[![Swift](https://img.shields.io/badge/Swift-5.6-orange.svg)](https://swift.org) ![Platforms](https://img.shields.io/badge/Platforms-iOS-blue) ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-green.svg)
 
-A simple and flexible popup and alert manager for SwiftUI applications. HKPopupManager allows you to manage alerts and popups globally within your app, providing customizable views, transitions, and presentation logic with ease.
+## SwiftUI Popup Manager for iOS
+
+**HKPopupManager** is a Swift package that simplifies the management of **popups** and **alerts** in **SwiftUI** applications. It provide developers with an easy-to-integrate solution for handling modal views. Whether you're building a custom **popup** or managing system **alerts**, HKPopupManager provides the flexibility and features you need.
+
+
 
 ---
 
