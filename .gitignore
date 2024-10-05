@@ -1,3 +1,17 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcscmblueprint
+*.swiftpm/
+.build/
+
+# Swift Package Manager
+.DS_Store
+Packages/
+.swiftpm/
+.build/
 .DS_Store
 /.build
 /Packages
